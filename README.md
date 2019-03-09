@@ -1,2 +1,2 @@
-# speedrun
-�½�Ʈ
+﻿# speedrun
+태스트
